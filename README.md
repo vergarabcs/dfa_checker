@@ -26,7 +26,10 @@ $ source venv/Scripts/activate
 $ pip install pyautogui
 ```
 
-4.) Run dfa.py
+4.) Run dfa.py. This will start the bot. Sometimes, due to dfa updates or other reasons, the bot gets sidetracked, close terminal to stop. You can also modify dfa.py.
 ```
 $ python dfa.py
 ```
+
+# Screen Cap
+![Alt text](/assets/screen_cap.gif "Dfa Gui Bot")
